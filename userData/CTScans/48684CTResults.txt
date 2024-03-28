@@ -1,0 +1,8 @@
+{
+"AgatstonScore":"480",
+"LMScore":"403",
+"LADScore":"348",
+"LCXScore":"38",
+"RCAScore":"4",
+"PDAScore":"4"
+}
